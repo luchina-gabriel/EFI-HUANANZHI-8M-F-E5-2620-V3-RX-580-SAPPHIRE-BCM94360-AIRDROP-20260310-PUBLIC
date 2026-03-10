@@ -1,8 +1,10 @@
 # Hackintosh, Huananzhi 8M-F X99, Intel Xeon E5 2620 V3, AMD Radeon RX 580 2304SP Sapphire
 
+<img width="1988" height="1186" alt="Portfolio-1" src="https://github.com/user-attachments/assets/ca1b4a85-a6cd-450e-97a2-0025d683bf7d" />
+
 # Basic Information
 
-**macOS**: macOS Tahoe (26.3)
+**macOS**: macOS Tahoe (26.3.1)
 <br>
 **OpenCore**: 1.0.6
 <br>
